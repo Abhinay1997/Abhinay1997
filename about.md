@@ -1,10 +1,14 @@
 ---
 layout: about
-title: About
+image: /assets/img/blog/hydejack-9.jpg
+description: >
+  A boutique Jekyll theme for hackers, nerds, and academics,
+  with a focus on personal sites that are meant to impress.
+hide_description: true
+redirect_from:
+  - /about/
 ---
 
-<!--author-->
+# About
 
-There is not much to talk about me
-
-In fact there is nothing.
+This is a description for the about page.
