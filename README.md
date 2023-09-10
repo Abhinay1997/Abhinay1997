@@ -1,4 +1,4 @@
-Hello! 
+Hello 👋! 
 
 I'm Abhinay, currently a Software Developer based out of India. I work on low latency data serving over Python API's at my job and in my free time I love exploring State-of-The-Art research in NLP and Computer Vision.
 
