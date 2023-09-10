@@ -16,4 +16,6 @@ Pending for final review and merge:
 The following works are in draft:
 1. UniControlNet Pipeline: A unified controlnet pipeline that leverages a Mixture-of-Experts architecture and modulated zero conv layers to adapt controlnet conditioning using the same controlnet weights. Proposed by [Can Qin et al](https://canqin001.github.io/UniControl-Page/)
 
-Feel free to reach out to me!
+and many more to come.
+
+Feel free to reach out to me to talk about AI/ML, Software Development!
