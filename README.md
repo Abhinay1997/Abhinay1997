@@ -1,6 +1,8 @@
 Hello 👋! 
 
-I'm Abhinay, currently a Software Developer based out of India. I work on low latency data serving over Python API's at my job and in my free time I love exploring State-of-The-Art research in NLP and Computer Vision.
+I'm Abhinay, currently a Software Developer based out of India. I mainly work on low latency data serving over Python API's at my job while also building AI/ML POC's and Demos. In my free time I love exploring State-of-The-Art research in NLP and Computer Vision. 
+
+I've previosuly worked on enterprise iOS App Development using Swift. I am also a Google Summer of Code, 2019 alumnus from [Project PANOPTES](https://www.projectpanoptes.org/) where I built web demos and a CLI tool for timelapse generation from FITS files.
 
 I'm a regular contributor to [huggingface/diffusers](https://github.com/huggingface/diffusers) and so far I've added:
 
