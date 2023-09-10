@@ -4,7 +4,7 @@ I'm Abhinay, currently a Software Developer based out of India. I mainly work on
 
 I've previosuly worked on enterprise iOS App Development using Swift. I am also a Google Summer of Code, 2019 alumnus from [Project PANOPTES](https://www.projectpanoptes.org/) where I built web demos and a CLI tool for timelapse generation from FITS files.
 
-I'm a regular contributor to [huggingface/diffusers](https://github.com/huggingface/diffusers) and so far I've added:
+I'm excited about AI/ML as a potential tool to accelerate human progress and open source as a major key to that. To that end, I regularly contribute to [huggingface/diffusers](https://github.com/huggingface/diffusers) and so far I've added:
 
 1. [Checkpoint Merger Pipeline](https://github.com/huggingface/diffusers/blob/main/examples/community/README.md#checkpoint-merger-pipeline): A community pipeline for merging diffusion model checkpoints that can be loaded by the DiffusionPipeline class.
 2. [UnCLIPTextInterpolationPipeline](https://github.com/huggingface/diffusers/blob/main/examples/community/README.md#unclip-text-interpolation-pipeline): A community pipeline to interpolate between the CLIP text embeddings of two text prompts and generate images from the intermediate embeddings.
