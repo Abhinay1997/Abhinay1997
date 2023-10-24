@@ -14,6 +14,6 @@ Pending for final review and merge:
 1. Tune-A-Video Pipeline: A one shot conditioned text-to-video pipeline that was proposed by [Jay Zhangjie Wu et al](https://tuneavideo.github.io/). Ported the model to huggingface with the [PR](https://github.com/huggingface/diffusers/pull/2455) pending merge approval.
 
 The following works are in draft:
-1. UniControlNet Pipeline: A unified controlnet pipeline that leverages a Mixture-of-Experts architecture and modulated zero conv layers to adapt controlnet conditioning using the same controlnet weights. Proposed by [Can Qin et al](https://canqin001.github.io/UniControl-Page/)
+1. UniControlNet Pipeline: A unified controlnet pipeline that leverages a Mixture-of-Experts architecture and modulated zero conv layers to adapt controlnet conditioning using the same controlnet weights. Proposed by [Can Qin et al](https://canqin001.github.io/UniControl-Page/). Draft [PR](https://github.com/huggingface/diffusers/pull/4378)
 
 and many more to come.
