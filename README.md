@@ -1,3 +1,3 @@
 Hello 👋! 
 
-Currently working on: https://github.com/argmaxinc/WhisperKit/pull/120
+Feel free to reach out ! I'd love to chat about papers, problems or implementation details. :)
