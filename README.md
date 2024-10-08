@@ -5,6 +5,7 @@
 | FIFO CogVideoX                                     | In Progress                                                                                |   https://jjihwan.github.io/projects/FIFO-Diffusion |
 |Comparision of different cfg like methods| In Progress                                   |  Smoothed Energy Guidance, Guidance embedding, CFG and CFG++| 
 | Flux Image Inversion using RNRI                    | Blocked. Understanding of prior for flow matching too low                                  |   https://barakmam.github.io/rnri.github.io/| 
+|Invertible MMDiT Transformer with Diff Attention | Planned. The idea is that the flow predicted by transformer is conditioned on both t_n and t_n-1 to allow for perfect inversion in theory | https://arxiv.org/pdf/2406.08929 https://arxiv.org/pdf/2410.05258
 | CogVideoX Attention Scaling                        | Paused. Need to recheck for higher res                                                     |   https://arxiv.org/abs/2306.08645| 
 | RB Modulation for FLUX                             | Planned. SOC is straightforward. AFA needs to be seen in detail. Planning to replace CSD with other image opeerators for different manifold explorations. Soft histograms for relative color palette retention ?                            |   https://rb-modulation.github.io/| 
 | CogVideoX distillation using FineVideo and PeRFlow | Planned. Needs compute grant. May be scrapped once BFLs video model is out.                |   https://arxiv.org/abs/2405.07510| 
